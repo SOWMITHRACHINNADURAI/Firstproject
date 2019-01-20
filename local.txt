@@ -1,1 +1,2 @@
-This a Hello world project and this is my new file.
+This a Hello world project and this is my new file. 
+This is a changed text.
